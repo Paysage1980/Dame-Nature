@@ -1,0 +1,66 @@
+body{
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Charmonman', cursive;
+}
+header{
+  height: 100vh;
+  width: 100%;
+  background-image:url("IMG/nature.jpg");
+  background-size:cover;
+
+}
+ #section1 p{font-size: 30px;}
+header h1{
+  font-size:40px;
+  font-family: 'Charmonman',sans-serif;
+}
+
+p{
+  padding:25px;
+}
+section{
+  min-height:100vh;
+  background-image:url("IMG/nature.jpg");
+  background-size:cover;
+}
+#section2 p{font-size: 50px;}
+#section2{
+  background-color:white;
+}
+#section2 h2{color:black;
+}
+#section3 p{font-size: 30px;}
+#ouragan{
+  color: white;
+}
+h2{
+  text-align:center;
+  padding-top: 25px;
+}
+footer{
+  position: absolute;
+  margin-bottom:0;
+  width:100%;
+  min-height:200px;
+  background-color:black;
+
+}
+#paysage{width: 320px;
+border-radius: 1000px;}
+#poisson{width:320px;
+border-radius: 1000px;}
+#ouragan{width:320px;
+border-radius: 1000px;}
+#tortue{width: 320px;
+border-radius: 1000px;}
+#dauphin{width: 320px;
+border-radius: 1000px;}
+#mer{width: 320px;
+border-radius: 1000px;}
+#corail{width: 320px;
+border-radius: 1000px;}
+#newsua{width: 320px;
+border-radius: 1000px;}
+#volcan{width: 620px;}
